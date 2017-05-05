@@ -1,0 +1,18 @@
+---
+layout:     post
+title:      "欢迎来到我的博客"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2017-03-06 03:20:00
+author:     "xiaolbj"
+#header-img: "img/post-bg-2015.jpg"
+tags:
+    - 生活
+---
+
+> “Yeah It's on. ”
+
+一直以来都想搭建个博客，然而一直都没有付诸行动。最近无所事事的我终于下定决心把他完成。
+
+网上找了一下，发现了一个非常不错的技术方案，[GitHub Pages](https://pages.github.com/) + [Jekyll](http://jekyllrb.com/) 快速 Building Blog，非常轻松时尚。
+
+于是乎懒散的我直接fork了[Huang Xuan Huxpro](https://github.com/Huxpro/)的[Jekyll主题](https://github.com/Huxpro/huxpro.github.io)。也就有了这个博客。
